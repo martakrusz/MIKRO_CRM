@@ -2,14 +2,12 @@ ID;MEETING_DATE;FIRST_NAME;LAST_NAME;CITY;STREET;HOME_NUMBER;POST_CODE;POST_CITY
 1;2019-04-25;Marian;Borowski;Nowe Aleksandrowo;Wesoˆa;84;16-002;Dobrzyniewo D;654 987 952;Dobrzyniewo D;Biaˆostocki;;;;;;1;Planuje kupi† opryskiwacz 2500L;
 2;2019-04-25;Dariusz;Dˆugi;Dˆugoˆ©ka;;55;19-111;Krypno;659 214 555;Krypno;Moniecki;Pumax;;;;Wysoki;7;Planuje ci¥gnik 100 KM;
 3;2019-04-25;Wociech ;Wolny;Zanikosy;Warszawska;15;16-002;Dobrzyniewo D;555 444 111;Dobrzyniewo D;Biaˆostocki;;;;;—redni;8;Oferta wysˆana;
-4;2019-04-25;Mariusz;Zalewski;Zanikosy;Biaˆostocka;18;16-002;Dobrzyniewo D;666 555 445;Dobrzyniewo D;Biaˆostocki;"Farm C
-Luxarxum";;;;;9;;
+4;2019-04-25;Mariusz;Zalewski;Zanikosy;Biaˆostocka;18;16-002;Dobrzyniewo D;666 555 445;Dobrzyniewo D;Biaˆostocki;Farm C, Luxarxum;;;;;9;;
 5;2019-04-25;Bartosz;Grz©sikowiak;Szucowski;Jutrzenki;22;16-002;Dobrzyniewo D;156 165 165;Dobrzyniewo D;Biaˆostocki;;;;;—redni;8;Mo¾na zajecha† za 4-5 miesi©cy;2019.08.15
 6;2019-04-25;Anna;Nowa;Zasˆoniki;Sukienna;46;19-111;Krypno;554 564 646;Krypno;Moniecki;Farm C;;;;—redni;8;110 KM na jesieä;2019.08.20
 7;2019-04-25;Janina;Porowska;Zasˆoniki;Kopernika;44;19-111;Krypno;554 565 233;Krypno;Moniecki;;;;;;8;Jesieä, Fella do ˜rodka grabi¥ca, storti 8m;2019.08.20
 8;2019-04-26;Franciszek;Namolny;Rutki Du¾e ;;23;19-124;Ja˜wiˆy;554 564 647;Ja˜wiˆy;Sok¢ˆka;;;;;—redni;8;Przepisuje gospodarstwo na syna, mo¾e jaki˜ program;2019.07.24
-9;2019-04-26;Barbara ;Ochocla;Rutki Du¾e ;Towarowa;26;19-124;Ja˜wiˆy;554 565 234;Ja˜wiˆy;Sok¢ˆka;Pumax;;;;—redni;2;"Chce kupi† Maˆa ˆadowarka przegˆubowa, ˆadowacz tur do Doutz 5120 (3 lata) + monta¾
-za daleko na monta¾";
+9;2019-04-26;Barbara ;Ochocla;Rutki Du¾e ;Towarowa;26;19-124;Ja˜wiˆy;554 565 234;Ja˜wiˆy;Sok¢ˆka;Pumax;;;;—redni;2;Chce kupi† Maˆa ˆadowarka przegˆubowa, ˆadowacz tur do Doutz 5120 (3 lata) + monta¿, za daleko na monta¾;
 10;2019-04-26;Paweˆ ;Ogrodowy;Rutki Du¾e ;Towarowa;7;19-124;Ja˜wiˆy;554 564 648;Ja˜wiˆy;Sok¢ˆka;;;;;;9;;
 11;2019-04-26;Dariusz;Zawada;Ja˜wiˆy;;18;19-124;Ja˜wiˆy;554 565 235;Ja˜wiˆy;Sok¢ˆka;Pumax;;;;—redni;1;Chce kupi† maˆ¥ u¾ywana ˆadowarka teleskopowa;
 12;2019-04-26;Paweˆ ;Domowy;Sˆawejki;;18;19-124;Ja˜wiˆy;554 564 649;Ja˜wiˆy;Sok¢ˆka;Luxarxum;;;;;1;;
@@ -23,84 +21,11 @@ za daleko na monta¾";
 20;2019-04-29;Marzena;Konieczna;Jarki;;88;16-060;Zabˆud¢w;554 565 234;Zabˆud¢w;Biaˆostocki;;;;;;4;Oferta wysˆana;
 21;2019-04-29;Anna;Groszewska;Cieˆuszki;Wyszyäskiego;18;15-060;Zabˆud¢w;554 564 648;Zabˆud¢w;Biaˆostocki;Luxarxum;;;;Wysoki;4;Chce ci¥gnik 6 cylindrowy;
 22;2019-04-29;Szymon;Karˆowaty;Maˆowski;;48;19-555;Biaˆystok;554 565 235;Biaˆystok;Biaˆostocki;;;;;—redni;4;;2019.07.21
-23;2019-04-29;Adrian;Pieäkowski;Folwarki Maˆe;;3;16-060;Zabˆud¢w;554 564 647;Zabˆud¢w;Biaˆostocki;Farm A;;;;Wysoki;8;"Planuje u¾ywan¥ kosiark©.
-Chyba zdecydowaˆ si© na u¾ywan¥";
-24;2019-04-30;Robert;Wiszowaty;Kamionka ;;2;16-050;Michaˆowo;554 565 234;Michaˆowo;Biaˆostocki;Farm C;;;;Wysoki;6;"B©dzie chciaˆ mo¾e co˜ kupi† okoˆo 120 KM
-Moze w tym roku";2019.08.15
+23;2019-04-29;Adrian;Pieäkowski;Folwarki Maˆe;;3;16-060;Zabˆud¢w;554 564 647;Zabˆud¢w;Biaˆostocki;Farm A;;;;Wysoki;8;Planuje u¾ywan¥ kosiark©., Chyba zdecydowaˆ si© na u¾ywan¥;
+24;2019-04-30;Robert;Wiszowaty;Kamionka ;;2;16-050;Michaˆowo;554 565 234;Michaˆowo;Biaˆostocki;Farm C;;;;Wysoki;6;B©dzie chciaˆ mo¾e co˜ kupi† okoˆo 120 KM, Moze w tym roku;2019.08.15
 25;2019-04-30;Jarosˆaw;Kiszonka;Kamionka ;;55;16-050;Michaˆowo;554 564 648;Michaˆowo;Biaˆostocki;Luxarxum;;;;Wysoki;6;Praso owijarka CASE lub co˜ innego;
 26;2019-04-30;Adrianna;Maˆowska;Michaˆowo Kolonia;;25;16-050;Michaˆowo;554 565 235;Michaˆowo;Biaˆostocki;Maxarxum CVX;;;;niski;6;;
 27;2019-04-30;Karzimierz;Bielski;Sˆupki;D©bowa;45;16-050;Michaˆowo;554 564 649;Michaˆowo;Biaˆostocki;Maxarxum CVX;;;;;7;;
 28;2019-04-30;Marek;Orˆowski;Sˆupki;Nowy —wiat;21;16-050;Michaˆowo;554 565 236;Michaˆowo;Biaˆostocki;;;;;;7;Czeka na akceptacje ceny ;
 29;2019-04-30;Wˆodzimierz;Markowski;Sˆupki;Kr©ta;1;16-050;Michaˆowo;554 564 650;Michaˆowo;Biaˆostocki;;;;;;7;;
 30;2019-04-30;Stanisˆaw;Wojtkowski;Sˆupki;Sienkiewicza;9;16-050;Michaˆowo;554 564 647;Michaˆowo;Biaˆostocki;Farm A;;;;—redni;7;Niezdecydowany, chciaˆby kiedy˜ kupi† ˆadowark©, mo¾e na program. ;2019.08.21
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
