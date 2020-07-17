@@ -1,12 +1,15 @@
-import sys
 import csv
+from datetime import datetime
 
-with open('base_micro.csv', 'r', encoding='cp852') as data_base:
-    csv_reader = csv.reader(data_base)
 
-    for line in csv_reader:
-        print(line)
+def main():
+    with open('base_micro.csv', 'r', encoding='cp852') as data_base:
+        csv_reader = csv.DictReader(data_base, delimiter=';')
 
+        for row in csv_reader:
+            if not any(row.values()):
+                continue
+            print(row)
+print(main())
 if __name__ == "__main__":
-   data_base = sys.argv[0]
-   csv.reader(data_base)
+    main()
