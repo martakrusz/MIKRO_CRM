@@ -1,0 +1,31 @@
+ID	MEETING_DATE	FIRST_NAME	LAST_NAME	CITY	STREET	HOME_NUMBER	POST_CODE	POST_CITY	PHONE	COMMUNITY	COUNTY	OFFER	WYPOSAŻENIE	CENA	SPOSÓB ZAKUPU	STATUS 	RAITING	MEETING_DESCRIPTION	NEXT_MEETING
+1	2019-04-25	Marian	Borowski	Nowe Aleksandrowo	Wesoła	84	16-002	Dobrzyniewo D	654 987 952	Dobrzyniewo D	Białostocki						1	Planuje kupić opryskiwacz 2500L	
+2	2019-04-25	Dariusz	Długi	Długołęka		55	19-111	Krypno	659 214 555	Krypno	Moniecki	Pumax				Wysoki	7	Planuje ciągnik 100 KM	
+3	2019-04-25	Wociech 	Wolny	Zanikosy	Warszawska	15	16-002	Dobrzyniewo D	555 444 111	Dobrzyniewo D	Białostocki					Średni	8	Oferta wysłana	
+4	2019-04-25	Mariusz	Zalewski	Zanikosy	Białostocka	18	16-002	Dobrzyniewo D	666 555 445	Dobrzyniewo D	Białostocki	Farm C, Luxarxum					9		
+5	2019-04-25	Bartosz	Grzęsikowiak	Szucowski	Jutrzenki	22	16-002	Dobrzyniewo D	156 165 165	Dobrzyniewo D	Białostocki					Średni	8	Można zajechać za 4-5 miesięcy	2019.08.15
+6	2019-04-25	Anna	Nowa	Zasłoniki	Sukienna	46	19-111	Krypno	554 564 646	Krypno	Moniecki	Farm C				Średni	8	110 KM na jesień	2019.08.20
+7	2019-04-25	Janina	Porowska	Zasłoniki	Kopernika	44	19-111	Krypno	554 565 233	Krypno	Moniecki						8	Jesień, Fella do środka grabiąca, storti 8m	2019.08.20
+8	2019-04-26	Franciszek	Namolny	Rutki Duże 		23	19-124	Jaświły	554 564 647	Jaświły	Sokółka					Średni	8	Przepisuje gospodarstwo na syna, może jakiś program	2019.07.24
+9	2019-04-26	Barbara 	Ochocla	Rutki Duże 	Towarowa	26	19-124	Jaświły	554 565 234	Jaświły	Sokółka	Pumax				Średni	2	Chce kupić Mała ładowarka przegłubowa, ładowacz tur do Doutz 5120 (3 lata) + monta┐, za daleko na montaż	
+10	2019-04-26	Paweł 	Ogrodowy	Rutki Duże 	Towarowa	7	19-124	Jaświły	554 564 648	Jaświły	Sokółka						9		
+11	2019-04-26	Dariusz	Zawada	Jaświły		18	19-124	Jaświły	554 565 235	Jaświły	Sokółka	Pumax				Średni	1	Chce kupić małą używana ładowarka teleskopowa	
+12	2019-04-26	Paweł 	Domowy	Sławejki		18	19-124	Jaświły	554 564 649	Jaświły	Sokółka	Luxarxum					1		
+13	2019-04-26	Robert	Nowoda	Sławejki		2	19-124	Jaświły	554 565 236	Jaświły	Sokółka	Farm A					2	Chce rozrzutnik używany 16t	
+14	2019-04-26	Jan	Wojełko	Bobrówka 	Okopowa	9	19-124	Jaświły	554 564 650	Jaświły	Sokółka						9		
+15	2019-04-29	Tomasz	Zdrada	Bokiny	Nowa	62	18-100	Łapy	554 565 237	Łapy	Białostocki	Farm C					9		
+16	2019-04-29	Jolanta	Barylksa	Baciuty		10	18-106	Turośń Kościelna	554 564 651	Turośń Kościelna	Białostocki						3	Niby nie planuje zakupów, ale pytał o ładowarki 	
+17	2019-04-29	Atoni	Wróblewski	Klewinowo 		12	16-061	Juchnowiec 	554 565 238	Juchnowiec 	Białostocki					Wysoki	3	Rozmowa o ładowarce teleskopwej	2019.07.20
+18	2019-04-29	Paweł 	Kruszewska	Rzepowski		52	16-061	Juchnowiec 	554 564 652	Juchnowiec 		Pumax					4		
+19	2019-04-29	Andrzej	Wielki	Jarki		88	16-060	Zabłudów	554 564 647	Zabłudów	Białostocki						9		
+20	2019-04-29	Marzena	Konieczna	Jarki		88	16-060	Zabłudów	554 565 234	Zabłudów	Białostocki						4	Oferta wysłana	
+21	2019-04-29	Anna	Groszewska	Ciełuszki	Wyszyńskiego	18	15-060	Zabłudów	554 564 648	Zabłudów	Białostocki	Luxarxum				Wysoki	4	Chce ciągnik 6 cylindrowy	
+22	2019-04-29	Szymon	Karłowaty	Małowski		48	19-555	Białystok	554 565 235	Białystok	Białostocki					Średni	4		2019.07.21
+23	2019-04-29	Adrian	Pieńkowski	Folwarki Małe		3	16-060	Zabłudów	554 564 647	Zabłudów	Białostocki	Farm A				Wysoki	8	Planuje używaną kosiarkę., Chyba zdecydował się na używaną	
+24	2019-04-30	Robert	Wiszowaty	Kamionka 		2	16-050	Michałowo	554 565 234	Michałowo	Białostocki	Farm C				Wysoki	6	Będzie chciał może coś kupić około 120 KM, Moze w tym roku	2019.08.15
+25	2019-04-30	Jarosław	Kiszonka	Kamionka 		55	16-050	Michałowo	554 564 648	Michałowo	Białostocki	Luxarxum				Wysoki	6	Praso owijarka CASE lub coś innego	
+26	2019-04-30	Adrianna	Małowska	Michałowo Kolonia		25	16-050	Michałowo	554 565 235	Michałowo	Białostocki	Maxarxum CVX				niski	6		
+27	2019-04-30	Karzimierz	Bielski	Słupki	Dębowa	45	16-050	Michałowo	554 564 649	Michałowo	Białostocki	Maxarxum CVX					7		
+28	2019-04-30	Marek	Orłowski	Słupki	Nowy Świat	21	16-050	Michałowo	554 565 236	Michałowo	Białostocki						7	Czeka na akceptacje ceny 	
+29	2019-04-30	Włodzimierz	Markowski	Słupki	Kręta	1	16-050	Michałowo	554 564 650	Michałowo	Białostocki						7		
+30	2019-04-30	Stanisław	Wojtkowski	Słupki	Sienkiewicza	9	16-050	Michałowo	554 564 647	Michałowo	Białostocki	Farm A				Średni	7	Niezdecydowany, chciałby kiedyś kupić ładowarkę, może na program. 	2019.08.21
